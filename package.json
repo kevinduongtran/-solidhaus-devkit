@@ -1,0 +1,34 @@
+{
+  "name": "@solidhaus-devkit/schematics",
+  "version": "1.0.0",
+  "description": "Schematics for Solidhaus pages based off of Ionic-Angular schematics",
+  "license": "MIT",
+  "author": {
+    "name": "Kevin Duong-Tran"
+  },
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 3.0.0"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && jasmine **/*_spec.js"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "@angular-devkit/schematics": "^0.4.5"
+  },
+  "devDependencies": {
+    "@angular-devkit/core": "^0.4.5",
+    "@angular/cli": "^1.7.3",
+    "@angular/core": "^5.2.8",
+    "@schematics/schematics": "^0.4.5",
+    "@types/jasmine": "^2.8.6",
+    "@types/node": "^9.4.7",
+    "ionic-angular": "^3.9.2",
+    "jasmine": "^3.1.0",
+    "rxjs": "^5.5.6",
+    "typescript": "^2.7.2",
+    "zone.js": "^0.8.20"
+  }
+}
