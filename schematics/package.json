@@ -1,61 +1,8 @@
 {
-  "_from": "@solidhaus-devkit/schematics",
-  "_id": "@solidhaus-devkit/schematics@1.0.0",
-  "_inBundle": false,
-  "_integrity": "sha512-meQFWWhzmoVqWmcg8v+IMVUidZa8sJljUZlMYuh/3KhG4bAXh4nRCks8gG8b4V8px2V1p/3tznsRVYabgFfcSg==",
-  "_location": "/@solidhaus-devkit/schematics",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "@solidhaus-devkit/schematics",
-    "name": "@solidhaus-devkit/schematics",
-    "escapedName": "@solidhaus-devkit%2fschematics",
-    "scope": "@solidhaus-devkit",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/@ionic-angular/schematics/-/schematics-1.1.4.tgz",
-  "_shasum": "72f586720dd079a84b3639c6b8c3c2b2c880afa6",
-  "_spec": "@ionic-angular/schematics",
-  "_where": "/Users/kevin/Dev/Solidhaus/solidhaus-schematic/test-schematics",
-  "author": {
-    "name": "Rob Ferguson",
-    "url": "https://robferguson.org/blog"
-  },
-  "bugs": {
-    "url": "https://github.com/Robinyo/ionic-angular-schematics.git/issues"
-  },
-  "bundleDependencies": false,
-  "dependencies": {},
-  "deprecated": false,
-  "description": "Schematics for Ionic Angular",
-  "devDependencies": {},
-  "engines": {
-    "node": ">= 6.9.0",
-    "npm": ">= 3.0.0"
-  },
-  "homepage": "https://github.com/Robinyo/ionic-angular-schematics",
-  "keywords": [
-    "angular",
-    "ionic",
-    "blueprints",
-    "code generation",
-    "schematics"
-  ],
-  "license": "MIT",
   "name": "@solidhaus-devkit/schematics",
-  "peerDependencies": {
-    "@angular-devkit/schematics": "^0.0.42"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Robinyo/ionic-angular-schematics.git"
-  },
-  "schematics": "./collection.json",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Schematics for Solidhaus pages based off of Ionic-Angular schematics",
+  "main": "index.js",
+  "author": "Kevin Duong-Tran",
+  "license": "ISC"
 }
