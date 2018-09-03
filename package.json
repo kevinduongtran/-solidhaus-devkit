@@ -1,0 +1,8 @@
+{
+  "name": "@solidhaus-devkit/schematics",
+  "version": "1.0.0",
+  "description": "Schematics for Solidhaus pages based off of Ionic-Angular schematics",
+  "main": "index.js",
+  "author": "Kevin Duong-Tran",
+  "license": "ISC"
+}
