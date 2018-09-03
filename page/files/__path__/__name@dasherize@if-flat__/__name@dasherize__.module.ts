@@ -20,4 +20,4 @@ const routes: Routes = [
   ],
   declarations: [<%= classify(name) %>Page]
 })
-export class <%= classify(name) %>PageModule { }
+export class <%= classify(name) %>Module { }
