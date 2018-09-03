@@ -21,7 +21,8 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "@angular-devkit/schematics": "^0.4.5"
+    "@angular-devkit/schematics": "^0.4.5",
+    "rxjs-compat": "6.3.1"
   },
   "devDependencies": {},
   "keywords": [
